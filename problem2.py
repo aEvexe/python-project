@@ -15,3 +15,5 @@ scores = {
     "Class B": [60, 90]
 }
 print(calculate_class_averages(scores))
+
+print("sdfsdfsdf")
